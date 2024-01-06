@@ -1,12 +1,17 @@
-**THIS README IS A WORK IN PROCESS AS IS THE PROJECT AS A WHOLE**
+<center>**THIS README IS A WORK IN PROCESS AS IS THE PROJECT AS A WHOLE**</center>
 
 # Cabbage Companion Discord Bot
 
 ## Overview
-![Project Logo](./logo.ico)
 
+<p align="center">
+  <img src="./logo.ico" alt="Project Logo">
+</p>
+
+<center>
 Welcome to Cabbage Companion, a versatile Discord bot designed to be the ultimate assistant for members of the Chaotic Cabbages Runescape clan.
 Cabbage Companion brings together multiple tools and valuable information to enhance the gaming experience and coordination within the clan.
+</center>
 
 ## Features
 
@@ -22,6 +27,8 @@ Cabbage Companion brings together multiple tools and valuable information to enh
 2. Ensure the bot has the necessary permissions to read messages, send responses, and manage channels as required for each feature.
 
 ## Project File Structure
+<pre>
+
 Cabbage-Companion/
 ├── .gitignore
 ├── LICENSE
@@ -31,6 +38,8 @@ Cabbage-Companion/
     ├── svg/
     ├── pdf/
     └── png/
+
+</pre>
 
 ## Getting Started
 
