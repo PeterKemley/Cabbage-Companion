@@ -1,8 +1,12 @@
+**THIS README IS A WORK IN PROCESS AS IS THE PROJECT AS A WHOLE**
+
 # Cabbage Companion Discord Bot
 
 ## Overview
 ![Project Logo](./logo.ico)
-Welcome to Cabbage Companion, a versatile Discord bot designed to be the ultimate assistant for members of the Chaotic Cabbages Runescape clan. Cabbage Companion brings together multiple tools and valuable information to enhance the gaming experience and coordination within the clan.
+
+Welcome to Cabbage Companion, a versatile Discord bot designed to be the ultimate assistant for members of the Chaotic Cabbages Runescape clan.
+Cabbage Companion brings together multiple tools and valuable information to enhance the gaming experience and coordination within the clan.
 
 ## Features
 
